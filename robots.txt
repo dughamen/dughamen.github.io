@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dughamen.github.io/sitemap.html.gz
+Sitemap: https://dughamen.github.io/app/sitemap.html.gz
+Sitemap: https://dughamen.github.io/assets/sitemap.html.gz
+Sitemap: https://dughamen.github.io/css/sitemap.html.gz
+Sitemap: https://dughamen.github.io/includes/sitemap.html.gz
+Sitemap: https://dughamen.github.io/item/sitemap.html.gz
+Sitemap: https://dughamen.github.io/src/sitemap.html.gz
